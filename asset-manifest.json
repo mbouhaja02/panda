@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio4/static/css/main.bbddf757.css",
+    "main.js": "/portfolio4/static/js/main.0453053f.js",
+    "static/js/453.515ecba2.chunk.js": "/portfolio4/static/js/453.515ecba2.chunk.js",
+    "static/media/og-default.jpg": "/portfolio4/static/media/og-default.c8e967c9cef87f9f874d.jpg",
+    "static/media/panda.png": "/portfolio4/static/media/panda.72ca7e2f091c97143c55.png",
+    "static/media/bac_maroc.jpg": "/portfolio4/static/media/bac_maroc.88c86d01f581ffe77a54.jpg",
+    "static/media/clermont_logo.jpg": "/portfolio4/static/media/clermont_logo.6d4452ba0a10d1fe39f9.jpg",
+    "static/media/clermont_univ.jpg": "/portfolio4/static/media/clermont_univ.8b08af19deca98db036e.jpg",
+    "static/media/ghita_pdp.jpg": "/portfolio4/static/media/ghita_pdp.a1ad503996f1ee77ac00.jpg",
+    "static/media/lycee_logo.jpg": "/portfolio4/static/media/lycee_logo.f2f4a6a5f8145ae0fa67.jpg",
+    "index.html": "/portfolio4/index.html",
+    "main.bbddf757.css.map": "/portfolio4/static/css/main.bbddf757.css.map",
+    "main.0453053f.js.map": "/portfolio4/static/js/main.0453053f.js.map",
+    "453.515ecba2.chunk.js.map": "/portfolio4/static/js/453.515ecba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbddf757.css",
+    "static/js/main.0453053f.js"
+  ]
+}
