@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio4/static/css/main.3af5e763.css",
-    "main.js": "/portfolio4/static/js/main.a604132e.js",
-    "static/js/453.515ecba2.chunk.js": "/portfolio4/static/js/453.515ecba2.chunk.js",
-    "static/media/project_img3.png": "/portfolio4/static/media/project_img3.01bfdcdc0959ae872afd.png",
-    "static/media/ubgarden.png": "/portfolio4/static/media/ubgarden.73646cfad49e9e994c6a.png",
-    "static/media/og-default.jpg": "/portfolio4/static/media/og-default.c8e967c9cef87f9f874d.jpg",
-    "static/media/image0.jpeg": "/portfolio4/static/media/image0.20aa14c070e904637c9e.jpeg",
-    "static/media/1759957742529.pdf": "/portfolio4/static/media/1759957742529.8f3e1cd5b36dbbfe0e0e.pdf",
-    "static/media/1760560961863.pdf": "/portfolio4/static/media/1760560961863.ff009592727ce54a3fce.pdf",
-    "static/media/1759958542398.pdf": "/portfolio4/static/media/1759958542398.2a5b318c8071f69e0800.pdf",
-    "static/media/1760479135219.pdf": "/portfolio4/static/media/1760479135219.099ebc3378be2cfb866e.pdf",
-    "static/media/website-g61c1c6079_1280.jpg": "/portfolio4/static/media/website-g61c1c6079_1280.5b44ce193514d5f7e66e.jpg",
-    "static/media/formation-langage-c-avance.png": "/portfolio4/static/media/formation-langage-c-avance.bf0af88d24cd724c83bc.png",
-    "static/media/bash.jpg": "/portfolio4/static/media/bash.c2711e22a241624be56f.jpg",
-    "index.html": "/portfolio4/index.html",
-    "main.3af5e763.css.map": "/portfolio4/static/css/main.3af5e763.css.map",
-    "main.a604132e.js.map": "/portfolio4/static/js/main.a604132e.js.map",
-    "453.515ecba2.chunk.js.map": "/portfolio4/static/js/453.515ecba2.chunk.js.map"
+    "main.css": "/panda/static/css/main.bbddf757.css",
+    "main.js": "/panda/static/js/main.a5976c08.js",
+    "static/js/453.515ecba2.chunk.js": "/panda/static/js/453.515ecba2.chunk.js",
+    "static/media/og-default.jpg": "/panda/static/media/og-default.c8e967c9cef87f9f874d.jpg",
+    "static/media/panda.png": "/panda/static/media/panda.72ca7e2f091c97143c55.png",
+    "static/media/bac_maroc.jpg": "/panda/static/media/bac_maroc.88c86d01f581ffe77a54.jpg",
+    "static/media/clermont_logo.jpg": "/panda/static/media/clermont_logo.6d4452ba0a10d1fe39f9.jpg",
+    "static/media/clermont_univ.jpg": "/panda/static/media/clermont_univ.8b08af19deca98db036e.jpg",
+    "static/media/ghita_pdp.jpg": "/panda/static/media/ghita_pdp.a1ad503996f1ee77ac00.jpg",
+    "static/media/lycee_logo.jpg": "/panda/static/media/lycee_logo.f2f4a6a5f8145ae0fa67.jpg",
+    "index.html": "/panda/index.html",
+    "main.bbddf757.css.map": "/panda/static/css/main.bbddf757.css.map",
+    "main.a5976c08.js.map": "/panda/static/js/main.a5976c08.js.map",
+    "453.515ecba2.chunk.js.map": "/panda/static/js/453.515ecba2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3af5e763.css",
-    "static/js/main.a604132e.js"
+    "static/css/main.bbddf757.css",
+    "static/js/main.a5976c08.js"
   ]
 }
